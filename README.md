@@ -1,6 +1,6 @@
 # StockMarketCalculator
 
-Trading in the financial market has its own risks for a trader if he does not understand "Money Management".
+Trading in the Financial Market has its own risks for a trader if he does not understand "Money Management".
 
 What is Money Management?
 
